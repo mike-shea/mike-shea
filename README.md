@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mike-shea
-- 👀 I’m interested in Web Development, SaaS-based enterprise apps and UI/UX
-- 🌱 I’m currently working as a Visual Design Lead & UI designer
-- 💞️ I’m looking to collaborate on projects involving data stories 
+- 👀 I’m interested in web development, and UI interaction + design
+- 🌱 I’m currently working @ Jotform as a UI developer
 - 📫 How to reach me: http://mikeshea.dev
